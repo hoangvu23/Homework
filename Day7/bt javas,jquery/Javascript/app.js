@@ -107,4 +107,5 @@ let s = 0;
         let tt = document.querySelector('.tong-tien');
         tt.innerText = ChuyenDonViTien(s,'it-IT', 'VND' );
 
-//cần lấy tổng == > nhét draw
+//  Tas2 - day 8
+
